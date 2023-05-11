@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842866311015",
+    "project_id": "speakwell-5c8c3",
+    "storage_bucket": "speakwell-5c8c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842866311015:android:b2da524f4fe8df0baf39c2",
+        "android_client_info": {
+          "package_name": "com.example.parth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842866311015-8cf4ectj90tf4c0fg9589ip6ub5g1jlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe77S9ETkPE1R9kls3DLkZE6eREawFyPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842866311015-8cf4ectj90tf4c0fg9589ip6ub5g1jlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
