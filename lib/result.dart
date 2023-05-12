@@ -30,8 +30,6 @@ class _HomePageState extends State<HomePage> {
       onListening: (bool isListening) {
         setState(() {
           this.isListening = isListening;
-          textSample =
-              isListening ? 'Listening, continue to speak...' : 'Tap to Speak !';
         });
       },
     );

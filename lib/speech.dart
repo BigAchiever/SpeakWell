@@ -18,8 +18,9 @@ class Speech {
 
     if (isAvailable) {
       _speech.listen(
+        
         localeId: 'en_IN',
-        listenMode: ListenMode.search,
+        listenMode: ListenMode.dictation,
         partialResults: false,
         onResult: (value) => onResult(value.recognizedWords),
       );
